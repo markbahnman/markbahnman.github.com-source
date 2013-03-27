@@ -1,4 +1,5 @@
-markbahnman.github.com-source
-=============================
+markbahnman.github.com
+======================
+Source code for my personal blog. 
 
-Source code for markbahnman.github.com: My blog.
+Made using [jekyll](https://github.com/mojombo/jekyll) and [bootstrap](http://twitter.github.com/bootstrap/).
